@@ -2,6 +2,9 @@
 
 A modern, AI-powered fitness application built with React, TypeScript, and Firebase. Get personalized workout plans, track your progress, and receive AI-powered coaching advice.
 
+🚀 **Live Demo:** https://fit-line-main.vercel.app/
+
+A modern, AI-powered fitness application built with React, TypeScript, and Firebase. Get personalized workout plans, track your progress, and receive AI-powered coaching advice.
 ## Features
 
 - 🏋️ Personalized workout plans based on your fitness goals
