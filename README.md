@@ -1,5 +1,3 @@
-# FitLine
-AI-powered fitness app offering personalized workouts, progress tracking, and intelligent coaching. Built with React, TypeScript, and Firebase.
 # FitLine Gym - AI-Powered Fitness Application
 
 A modern, AI-powered fitness application built with React, TypeScript, and Firebase. Get personalized workout plans, track your progress, and receive AI-powered coaching advice.
